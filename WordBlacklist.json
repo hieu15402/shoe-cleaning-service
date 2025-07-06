@@ -1,0 +1,322 @@
+﻿[
+  {
+    "Word": "phản động",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "phản quốc",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "xuyên tạc",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "kích động",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "lật đổ",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "bôi nhọ chính quyền",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "chống phá nhà nước",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "khủng bố",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "độc tài",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "chủ nghĩa cực đoan",
+    "Note": "Nội dung chính trị nhạy cảm"
+  },
+  {
+    "Word": "đồ ngu",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "đồ chó",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "đồ rác rưởi",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "đồ khốn",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "đồ con lợn",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "thằng khốn",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "đồ cặn bã",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "đồ thảm hại",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "đồ súc sinh",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "con điếm",
+    "Note": "Lăng mạ"
+  },
+  {
+    "Word": "phân biệt chủng tộc",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "phân biệt giới tính",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "phân biệt tuổi tác",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "phân biệt tôn giáo",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "kỳ thị LGBT",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "miệt thị người nghèo",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "khinh người",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "tẩy chay sắc tộc",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "miệt thị phụ nữ",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "bất bình đẳng xã hội",
+    "Note": "Phân biệt đối xử"
+  },
+  {
+    "Word": "xúc phạm cá nhân",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "sỉ nhục",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "bôi nhọ danh dự",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "vu khống",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "phỉ báng",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "đồ vô học",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "đồ kém cỏi",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "chế nhạo",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "đe dọa",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "hạ nhục",
+    "Note": "Xúc phạm"
+  },
+  {
+    "Word": "lừa đảo",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "gian lận",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "vô đạo đức",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "vô trách nhiệm",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "bóc lột",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "lạm dụng",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "dối trá",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "không trung thực",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "lợi dụng",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "xâm phạm quyền lợi",
+    "Note": "Thiếu đạo đức"
+  },
+  {
+    "Word": "tục tĩu",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "chửi thề",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "nói tục",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "khiếm nhã",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "đồi trụy",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "xấc xược",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "thiếu tế nhị",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "thô tục",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "thô lỗ",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "vô văn hóa",
+    "Note": "Thiếu văn minh"
+  },
+  {
+    "Word": "đéo",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "mẹ",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "mả mẹ",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "vãi lồn",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "thằng chó",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "chó chết",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "đụ má",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "vô mẹ nó",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "chết mẹ mày",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "mả mẹ mày",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "đéo hiểu",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "chó má",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "thằng mất dạy",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "ngu như bò",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "con mẹ mày",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "địt mẹ",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "mẹ kiếp",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "đéo biết",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "ngu vãi",
+    "Note": "Ngôn từ chửi thề"
+  },
+  {
+    "Word": "chết mẹ mày",
+    "Note": "Ngôn từ chửi thề"
+  }
+]
