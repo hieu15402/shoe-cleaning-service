@@ -1,6 +1,0 @@
-@TP4SCS.API_HostAddress = http://localhost:5129
-
-GET {{TP4SCS.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
