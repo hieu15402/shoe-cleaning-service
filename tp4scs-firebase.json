@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shoecarehub-4dca3",
+  "private_key_id": "0f556a3a23eaeddce7e65771275ac8db9bb1656f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6y48aXTd2h9HD\nLlZcsB2Q7NoeYleDGagoLQ8Xab3KtvbdSs/kXGpH2DUlRvxtYgCdphaxpViSJKoc\nPr7zQxEm458CPcRr+BMoe0wnjNXo1dfw55Pp+4u1PEOseSwebBDBQ+6tfuTeWk83\nc9B/3fSXw2Q59MgOFaN7dYB4yJFexTDxf6RzURqIX5ysEbUCUhUOXovBcDm8ITC5\nKR7bCOcngsd9KgRpqomK0xEJDmE/RDeqMvIGalfdpSV7vuvR2VUOJr3tnNPUms3u\nvSDAihLJkfjHXR4zR9ZifpnaJ5ikAsX3N4diJpNKprzeKjRLJaXhf3rmoAjo7sCm\nvHPevMLhAgMBAAECggEADHRMh7KN42BbDG4EkjxS0v9xFo6yLNqd0y9ClD93s5z0\ng4d8qh+S8tSCofLkReBqJUNg5s9yWEIguRk3juLFRr1tSWS4DzEp3oHZWhdiNBqS\nlyxq41z4cRPCI60rk3awkkuMIx4KC/I5BGaQ0P8J6GwoZ1MqWy1hqkuzY7o5s7gJ\nrPwuOfeWfef1eARY/8NUyqoIT3VGNtU/ZaxVCVYrl4/wc11WPN6jjNwNeksKXYmm\nqriw/bLbQaJvQ+1P2omv/pXdYk7R97tJ9rwD0q4Zg/5ciqqariu3YsUJJLFhXtxO\nTdikNwgcrPFlxBVJ/rp1D9brTKOxUWBJekwk0DbmjQKBgQDqqAzkVtcDH4ZEIGxc\n8AZC3ZEi8v20bpcEZLWImQWUt/SeGWsqeWw98xdUCJzEfxyylE9++pDD0yG2HTGL\nKJGKd3p47NWZnB2Zf9X+P0920VsvFHIlRgqz85WddLgzifbUJr5CrgmlZ0/JAHPe\nzUpyPcwxysU9xjDZb90qjwbANQKBgQDLyRBK608dk4DLWkhXZWgZw7RZskvaY5rT\n35Evd5fZQnxOfJCJjhQeEiJ9VO9IEYuPPP5kSzIyyFfSsR74CzN1uCYeBd5Co7Uc\nD0pZI+ZYVdzL5O7FHC7DRQAuf70+SxuQHyY0DMUXMEPHEBu7v7/sHKnojyYsPoU9\nH0Etr6xlfQKBgAVkazdsD3DQ7qLuI89W7K3orYciElZtHCdLsSg8a/Zo68QeTWoi\ndCxQQ774m7GgQiaQZetDEsSNO38V2Keb/Qwzhqr0tkvbXIrEd0RqbAcM9I12aNEW\ndPSBqnR91CXLC9MAOOsLWMlmQF0cF42NJiLN7L1QLYwn28ODYI+zzbHpAoGAPubI\nDagGWqW9+obaj4dwk4tR7uHXAgj+sGlwwgsTJu+buQo//wWI9iM43CDMXx1zS3pT\nN5fyXbRzT0h2u6+RacO2mEvNaBpp+8hIda1cG2Ydah43CUaCtKlmvfOV8VVzo4/J\n1gUfDOJL+XTiaphsYDAUzgDpknyV2eD82GJCP20CgYEAwLYtnGUXebrHgWh5q1bW\n8P9AYy9G6KFOQFFeatblDITKX8uhTEpTfbDtyInVoeop1kWicFcYSixKqXjrUGUh\nRzSRovc10bTrhn7RMEpAfSOsUW3WAXDWVvC5LmZLKzhFrqAyqrORWDNbPfDRKMWc\nJPLrsoltoqcbIbTBv4ABbhI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pe8ml@shoecarehub-4dca3.iam.gserviceaccount.com",
+  "client_id": "102764622100534724853",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pe8ml%40shoecarehub-4dca3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
